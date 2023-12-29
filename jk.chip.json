@@ -1,0 +1,13 @@
+{
+  "name": "jk",
+  "author": "Yann Kabambi",
+  "pins": [
+    "VCC",
+    "GND",
+    "OUT",
+    "OUT"
+  ],
+  "controls": [
+    
+  ]
+}
